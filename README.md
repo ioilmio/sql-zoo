@@ -1,4 +1,4 @@
-# SQL Databse
+# SQL Database
 
 > This project is about experimenting and exercise with different MySQL commands and tecniques
 
