@@ -1,63 +1,47 @@
-# Project Name
+# SQL Databse
 
-> One paragraph statement about the project.
+> This project is about experimenting and exercise with different MySQL commands and tecniques
 
-![screenshot](./app_screenshot.png)
+![screenshot](./sqlzoo.png)
 
-Additional description about the project and its features.
+It was made using SqlZoo tutorial from basics to self-join.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- SQL Zoo tutorial
+- Vs Code
+- MySQL
 
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
 
 ### Usage
+Copy and paste these solutions to the exercises from the SQL Zoo Wiki.
 
-### Run tests
+### Cloning 
 
-### Deployment
+You can also clone this repo:
+
+# Open your terminal
+
+Type :
+``` git clone https://github.com/ioilmio/sql-zoo.git ```
 
 
+## Advice
 
-## Authors
+Try to run small queries, look at the result, build upon them.
 
-👤 **Author1**
 
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
+👤 **Ioilmio**
+- Github: [@ioilmio](https://github.com/ioilmio)
+- Twitter: [@ioilmio](https://twitter.com/ioilmio)
+- Linkedin: [Illuminato Salvatore](https://www.linkedin.com/in/illuminato-salvatore/)
 
-👤 **Author2**
-
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
 
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
+Feel free to check the [issues page](https://github.com/ioilmio/sql-zoo/issues).
 
 ## Show your support
 
@@ -65,9 +49,11 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Microverse
+- SqlZoo
+- SqlBolt
+- GalaxQL
+- Stackoverflow
 
 ## 📝 License
 
